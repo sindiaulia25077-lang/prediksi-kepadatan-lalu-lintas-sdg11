@@ -24,7 +24,7 @@ Oleh karena itu, project ini menggunakan *Machine Learning* untuk mengklasifikas
 
 | No. | Nama | NIM |
 |---|---|---|
-| 1 | Sindi Aulia | F1G125077F1G125040 |
+| 1 | Sindi Aulia | F1G125077 |
 | 2 | Kallyn Renanda Putri | F1G125035 |
 | 3 | Muhammad Fajar M | F1G125040 |
 
